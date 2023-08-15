@@ -23,7 +23,7 @@ url_video: ""
 title: Apoptotic cell fragments locally activate tingible body macrophages in
   the germinal center
 subtitle: "*Co-first author"
-doi: ""
+doi: https://doi.org/10.1016/j.cell.2023.02.004
 featured: false
 tags: []
 projects: []
@@ -31,9 +31,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
