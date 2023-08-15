@@ -1,7 +1,7 @@
 ---
 title: Wunna Kyaw
 role: PhD Candidate, Computational Biology
-avatar_filename: screen-shot-2023-03-03-at-1.08.39-pm.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Computational & Systems Biology
