@@ -17,6 +17,9 @@ authors:
   - Paul Timpson
   - Woei Ming Lee
   - Peter I. Croucher & Tri Giang Phan
+author_notes:
+  - Equal Contribution
+  - Equal Contribution
 doi: https://doi.org/10.1038/s41596-023-00894-9
 draft: false
 featured: false
