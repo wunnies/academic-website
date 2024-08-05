@@ -5,7 +5,7 @@ title: "ENTRAIN: integrating trajectory inference and gene regulatory networks
 publication_types:
   - "2"
 authors:
-  - Wunna Kyaw
+  - admin
   - Ryan C Chai
   - Weng Hua Khoo
   - Leonard D Goldstein
