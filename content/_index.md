@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Wunna Kyaw
 date: 2022-10-24
 type: landing
 
@@ -15,9 +15,7 @@ sections:
     content:
       title: Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+
       filters:
         folders:
           - publication
@@ -26,9 +24,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: Career
     content:
-      title: Recent Talks
+      title: Career
       filters:
         folders:
           - event
