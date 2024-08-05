@@ -44,7 +44,7 @@ sections:
           location: Sydney, Australia
           date_start: '2021-01-31'
           date_end: '2024-09-30'
-          description:
+          description:|2-
                   * ML for 'omics data (Bioinformatics, 2023)
                   * Agent-based simulations (Cell, 2023)
                   * 3D Live Imaging and Image Analysis (Cell, 2023; Nat. Protocols, 2023)
