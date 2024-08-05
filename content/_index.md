@@ -28,27 +28,26 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Test1
-          company: Test
+        - title: Summer Research Associate
+          company: Flatiron Institute, Center for Computational Biology
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: New York City, United States
+          date_start: '2024-05-28'
+          date_end: '2024-08-30'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Test2
-          company: University X
+              * Deep learning for gene expression prediction in Troyanskaya Lab at the Flatiron Institute and Princeton University
+        - title: PhD Candidate
+          company: UNSW Sydney
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Test
+          location: Sydney, Australia
+          date_start: '2021-01-31'
+          date_end: '2024-09-30'
+          description:
+                  * ML for 'omics data (Bioinformatics, 2023)
+                  * Agent-based simulations (Cell, 2023)
+                  * 3D Live Imaging and Image Analysis (Cell, 2023; Nat. Protocols, 2023)
     design:
       columns: '2'
 ---
