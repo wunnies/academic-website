@@ -31,16 +31,16 @@ sections:
         - title: Summer Research Associate
           company: Flatiron Institute, Center for Computational Biology
           company_url: ''
-          company_logo: org-gc
+          company_logo: flatiron
           location: New York City, United States
           date_start: '2024-05-28'
           date_end: '2024-08-30'
           description: |2-
               * Deep learning for gene expression prediction in Troyanskaya Lab at the Flatiron Institute and Princeton University
         - title: PhD Candidate
-          company: UNSW Sydney
+          company: UNSW Sydney, Garvan Institute of Medical Research
           company_url: ''
-          company_logo: org-x
+          company_logo: unsw
           location: Sydney, Australia
           date_start: '2021-01-31'
           date_end: '2024-08-30'
