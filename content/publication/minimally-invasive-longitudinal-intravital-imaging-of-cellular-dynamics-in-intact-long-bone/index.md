@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - Nayan Deger Bhattacharyya
-  - Wunna Kyaw
+  - admin
   - Michelle M. McDonald
   - Rama Dhenni
   - Abigail K. Grootveld
