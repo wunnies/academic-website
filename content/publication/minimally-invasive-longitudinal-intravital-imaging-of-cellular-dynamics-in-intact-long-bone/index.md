@@ -21,6 +21,7 @@ author_notes:
   - Equal Contribution
   - Equal Contribution
 doi: https://doi.org/10.1038/s41596-023-00894-9
+publication: Nature Protocols
 draft: false
 featured: false
 image:
