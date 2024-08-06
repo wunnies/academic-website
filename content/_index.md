@@ -11,18 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: experience
     content:
       title: Experience
@@ -50,4 +38,28 @@ sections:
               * 3D Live Imaging and Image Analysis (Cell, 2023; Nat. Protocols, 2023)
     design:
       columns: '2'
+  - block: collection
+    content:
+      title: Main Research
+      text: |-
+
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    content:
+      title: Other Research
+      text: |-
+
+      filters:
+        folders:
+          - publication2
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 ---
