@@ -13,6 +13,7 @@ authors:
   - John M Murray
   - Tri Giang Phan
 doi: https://doi.org/10.1093/bioinformatics/btad765
+publication: Bioinformatics
 draft: false
 featured: false
 image:
