@@ -51,6 +51,7 @@ authors:
   - Peter I Croucher
   - Tri Giang Phan
 doi: 10.1016/j.cell.2021.02.002
+publication: Cell
 draft: false
 featured: false
 image:
