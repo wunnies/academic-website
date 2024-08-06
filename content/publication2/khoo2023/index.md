@@ -12,7 +12,7 @@ authors:
   - Stephanie Ruiz-Diaz
   - Mandeep Singh
   - Rama Dhenni
-  - Wunna Kyaw
+  - admin
   - Fiona Tea
   - Vera Merheb
   - Fiona XZ Lee
