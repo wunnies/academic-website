@@ -1,7 +1,7 @@
 ---
 title: Osteoclasts recycle via osteomorphs during RANKL-stimulated bone resorption
 publication_types:
-  - "2"
+  - "0"
 authors:
   - Michelle M McDonald
   - Weng Hua Khoo
