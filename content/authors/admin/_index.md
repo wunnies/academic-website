@@ -4,9 +4,9 @@ role: PhD Candidate, Computational Biology
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Computational & Systems Biology
+  - Machine Learning for Systems Biology
   - Imaging
-  - Biophysics
+  - Biophysical Modelling
 social:
   - icon: twitter
     icon_pack: fab
