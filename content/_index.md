@@ -16,13 +16,22 @@ sections:
       title: Experience
       date_format: Jan 2006
       items:
-        - title: Summer Research Associate
+        - title: Postdoc
+          company: Victor Chang Cardiac Research Institute
+          company_url: ''
+          company_logo: vccri
+          location: Sydney, Australia
+          date_start: '2025-08-04'
+          date_end: '2025-08-01'
+          description: |2-
+              * DNA language models for computational genomics
+        - title: Research Associate & Guest Researcher
           company: Flatiron Institute, Center for Computational Biology
           company_url: ''
           company_logo: flatiron
           location: New York City, United States
           date_start: '2024-05-28'
-          date_end: '2024-08-30'
+          date_end: '2025-08-01'
           description: |2-
               * Deep learning for gene expression prediction in Troyanskaya Lab at the Flatiron Institute and Princeton University
         - title: PhD Candidate
