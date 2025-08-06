@@ -1,6 +1,6 @@
 ---
 title: Wunna Kyaw
-role: PhD Candidate, Computational Biology
+role: Postdoc, Computational Biology @ VCCRI
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -39,7 +39,9 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am currently a PhD student in Computational Biology at the Garvan Institute of Medical Research, UNSW. My research focus is computational modelling of biological systems through the lens of both mechanistic foundations (Cell, 2023), and supervised machine learning methods (Bioinformatics, 2023)
+I am a Postdoc Researcher in the Regulatory Systems Lab at the Victor Chang Cardiac Research Institute. I'm working on using DNA language models to design engineered DNA sequences with programmable activity levels.
 
-More broadly, I am interested in gene regulatory networks and the exploration of biological systems at multiple scales, including for synthetic biology applications. These phenomena are fundamentally unintuitive and, in my view, necessitate the application of computational methods to fully comprehend their behaviour.
+Prior to this, my PhD focussed on agent-based modelling of immunity (Cell, 2023), and supervised machine learning methods in single-cell 'omics (Bioinformatics, 2023)
+
+More broadly, I am interested in gene regulatory networks and the exploration of biological systems at multiple scales, especially their manipulation for synthetic biology. These phenomena are fundamentally unintuitive and, in my view, necessitate the application of computational methods to fully understand them.
 {style="text-align: justify;"}
