@@ -1,6 +1,6 @@
 ---
 title: Wunna Kyaw
-role: Postdoc, Computational Biology @ VCCRI
+role: Postdoc, Regulatory Systems
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/wunnakyaw/
 organizations:
-  - name: UNSW
-    url: ""
+  - name: VCCRI
+    url: "https://www.victorchang.edu.au/heart-research/regulatory-systems"
 education:
   courses:
     - course: PhD in Computational Biology
@@ -34,9 +34,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Kyaw
 highlight_name: true
-first_name: Alice
+first_name: Wunna
 email: ""
 ---
 I am a Postdoc Researcher in the Regulatory Systems Lab at the Victor Chang Cardiac Research Institute. I'm working on using DNA language models to design engineered DNA sequences with programmable activity levels.
