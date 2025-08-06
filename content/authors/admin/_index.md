@@ -41,7 +41,7 @@ email: ""
 ---
 I am a Postdoc Researcher in the Regulatory Systems Lab at the Victor Chang Cardiac Research Institute. I'm working on using DNA language models to design engineered DNA sequences with programmable activity levels.
 
-Prior to this, my PhD focussed on agent-based modelling of immunity (Cell, 2023), and supervised machine learning methods in single-cell 'omics (Bioinformatics, 2023)
+Prior to this, my PhD focussed on imaging, agent-based modelling of immunity (Cell, 2023 and Nature Protocols, 2023), and supervised machine learning methods in single-cell 'omics (Bioinformatics, 2023)
 
 More broadly, I am interested in gene regulatory networks and the exploration of biological systems at multiple scales, especially their manipulation for synthetic biology. These phenomena are fundamentally unintuitive and, in my view, necessitate the application of computational methods to fully understand them.
 {style="text-align: justify;"}
