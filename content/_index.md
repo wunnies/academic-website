@@ -42,6 +42,7 @@ sections:
           date_start: '2021-01-31'
           date_end: '2024-08-30'
           description: |2-
+              * Garvan Best PhD Thesis Award
               * ML for 'omics data (Bioinformatics, 2023)
               * Agent-based simulations (Cell, 2023)
               * 3D Live Imaging and Image Analysis (Cell, 2023; Nat. Protocols, 2023)
